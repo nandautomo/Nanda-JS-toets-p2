@@ -28,3 +28,7 @@ function showSum()
 
 
 //Opdracht 6
+
+
+
+//Opdracht 7
